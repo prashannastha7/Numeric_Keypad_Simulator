@@ -1,7 +1,4 @@
-# Numeric_Keypad_Simulator
-
-
-  # [Numeric Keypad Simulator](https://github.com/prashannastha7/Numeric_Keypad_Simulator/blob/main/keypad.c%2B%2B)
+# [Numeric Keypad Simulator](https://github.com/prashannastha7/Numeric_Keypad_Simulator/blob/main/keypad.c%2B%2B)
 - The keyboard layout is:
 
 <table>
